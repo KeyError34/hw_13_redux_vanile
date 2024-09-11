@@ -1,0 +1,13 @@
+.centerContainer{
+     display: flex;
+     width: 100vw;
+     justify-content: center;
+     
+}
+.filterPageContainer{
+    max-width: max-content;
+    display: flex;
+    flex-direction: column;gap: 10px;
+
+   
+}
